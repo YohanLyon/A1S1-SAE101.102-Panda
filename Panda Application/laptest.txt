@@ -1,0 +1,361 @@
+------------------------------
+Jours : 1
+Hauteur Maximum : 65
+Hauteur Moyenne : 41
+Hauteur Minimum : 11
+En charge : Non
+------------------------------
+Jours : 2
+Hauteur Maximum : 118
+Hauteur Moyenne : 75
+Hauteur Minimum : 22
+En charge : Non
+------------------------------
+Jours : 3
+Hauteur Maximum : 159
+Hauteur Moyenne : 102
+Hauteur Minimum : 33
+En charge : Non
+------------------------------
+Jours : 4
+Hauteur Maximum : 195
+Hauteur Moyenne : 124
+Hauteur Minimum : 44
+En charge : Non
+------------------------------
+Jours : 5
+Hauteur Maximum : 235
+Hauteur Moyenne : 141
+Hauteur Minimum : 55
+En charge : Non
+------------------------------
+Jours : 6
+Hauteur Maximum : 246
+Hauteur Moyenne : 154
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 7
+Hauteur Maximum : 295
+Hauteur Moyenne : 165
+Hauteur Minimum : 41
+En charge : Non
+------------------------------
+Jours : 8
+Hauteur Maximum : 280
+Hauteur Moyenne : 169
+Hauteur Minimum : 59
+En charge : Non
+------------------------------
+Jours : 9
+Hauteur Maximum : 325
+Hauteur Moyenne : 176
+Hauteur Minimum : 35
+En charge : Non
+------------------------------
+Jours : 10
+Hauteur Maximum : 371
+Hauteur Moyenne : 177
+Hauteur Minimum : 65
+En charge : Non
+------------------------------
+Jours : 11
+Hauteur Maximum : 282
+Hauteur Moyenne : 173
+Hauteur Minimum : 53
+En charge : Non
+------------------------------
+Jours : 12
+Hauteur Maximum : 295
+Hauteur Moyenne : 179
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 13
+Hauteur Maximum : 299
+Hauteur Moyenne : 184
+Hauteur Minimum : 59
+En charge : Non
+------------------------------
+Jours : 14
+Hauteur Maximum : 328
+Hauteur Moyenne : 188
+Hauteur Minimum : 23
+En charge : Non
+------------------------------
+Jours : 15
+Hauteur Maximum : 390
+Hauteur Moyenne : 189
+Hauteur Minimum : 41
+En charge : Non
+------------------------------
+Jours : 16
+Hauteur Maximum : 318
+Hauteur Moyenne : 182
+Hauteur Minimum : 65
+En charge : Non
+------------------------------
+Jours : 17
+Hauteur Maximum : 315
+Hauteur Moyenne : 184
+Hauteur Minimum : 53
+En charge : Non
+------------------------------
+Jours : 18
+Hauteur Maximum : 354
+Hauteur Moyenne : 187
+Hauteur Minimum : 35
+En charge : Non
+------------------------------
+Jours : 19
+Hauteur Maximum : 376
+Hauteur Moyenne : 184
+Hauteur Minimum : 59
+En charge : Non
+------------------------------
+Jours : 20
+Hauteur Maximum : 325
+Hauteur Moyenne : 179
+Hauteur Minimum : 47
+En charge : Oui
+------------------------------
+Jours : 21
+Hauteur Maximum : 390
+Hauteur Moyenne : 221
+Hauteur Minimum : 94
+En charge : Non
+------------------------------
+Jours : 22
+Hauteur Maximum : 328
+Hauteur Moyenne : 214
+Hauteur Minimum : 65
+En charge : Non
+------------------------------
+Jours : 23
+Hauteur Maximum : 371
+Hauteur Moyenne : 214
+Hauteur Minimum : 41
+En charge : Non
+------------------------------
+Jours : 24
+Hauteur Maximum : 354
+Hauteur Moyenne : 210
+Hauteur Minimum : 53
+En charge : Non
+------------------------------
+Jours : 25
+Hauteur Maximum : 282
+Hauteur Moyenne : 207
+Hauteur Minimum : 59
+En charge : Non
+------------------------------
+Jours : 26
+Hauteur Maximum : 325
+Hauteur Moyenne : 214
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 27
+Hauteur Maximum : 350
+Hauteur Moyenne : 215
+Hauteur Minimum : 65
+En charge : Non
+------------------------------
+Jours : 28
+Hauteur Maximum : 345
+Hauteur Moyenne : 213
+Hauteur Minimum : 35
+En charge : Non
+------------------------------
+Jours : 29
+Hauteur Maximum : 319
+Hauteur Moyenne : 211
+Hauteur Minimum : 23
+En charge : Non
+------------------------------
+Jours : 30
+Hauteur Maximum : 371
+Hauteur Moyenne : 213
+Hauteur Minimum : 11
+En charge : Non
+------------------------------
+Jours : 31
+Hauteur Maximum : 413
+Hauteur Moyenne : 209
+Hauteur Minimum : 22
+En charge : Non
+------------------------------
+Jours : 32
+Hauteur Maximum : 410
+Hauteur Moyenne : 199
+Hauteur Minimum : 33
+En charge : Non
+------------------------------
+Jours : 33
+Hauteur Maximum : 455
+Hauteur Moyenne : 189
+Hauteur Minimum : 41
+En charge : Non
+------------------------------
+Jours : 34
+Hauteur Maximum : 423
+Hauteur Moyenne : 174
+Hauteur Minimum : 55
+En charge : Non
+------------------------------
+Jours : 35
+Hauteur Maximum : 280
+Hauteur Moyenne : 163
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 36
+Hauteur Maximum : 318
+Hauteur Moyenne : 170
+Hauteur Minimum : 35
+En charge : Non
+------------------------------
+Jours : 37
+Hauteur Maximum : 354
+Hauteur Moyenne : 172
+Hauteur Minimum : 53
+En charge : Non
+------------------------------
+Jours : 38
+Hauteur Maximum : 325
+Hauteur Moyenne : 169
+Hauteur Minimum : 59
+En charge : Non
+------------------------------
+Jours : 39
+Hauteur Maximum : 287
+Hauteur Moyenne : 170
+Hauteur Minimum : 65
+En charge : Non
+------------------------------
+Jours : 40
+Hauteur Maximum : 282
+Hauteur Moyenne : 176
+Hauteur Minimum : 41
+En charge : Oui
+------------------------------
+Jours : 41
+Hauteur Maximum : 329
+Hauteur Moyenne : 218
+Hauteur Minimum : 82
+En charge : Non
+------------------------------
+Jours : 42
+Hauteur Maximum : 322
+Hauteur Moyenne : 219
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 43
+Hauteur Maximum : 371
+Hauteur Moyenne : 255
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 44
+Hauteur Maximum : 424
+Hauteur Moyenne : 290
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 45
+Hauteur Maximum : 477
+Hauteur Moyenne : 326
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 46
+Hauteur Maximum : 531
+Hauteur Moyenne : 362
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 47
+Hauteur Maximum : 531
+Hauteur Moyenne : 376
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 48
+Hauteur Maximum : 531
+Hauteur Moyenne : 390
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 49
+Hauteur Maximum : 531
+Hauteur Moyenne : 403
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 50
+Hauteur Maximum : 531
+Hauteur Moyenne : 417
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 51
+Hauteur Maximum : 560
+Hauteur Moyenne : 431
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 52
+Hauteur Maximum : 560
+Hauteur Moyenne : 440
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 53
+Hauteur Maximum : 560
+Hauteur Moyenne : 442
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 54
+Hauteur Maximum : 560
+Hauteur Moyenne : 443
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 55
+Hauteur Maximum : 560
+Hauteur Moyenne : 444
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 56
+Hauteur Maximum : 560
+Hauteur Moyenne : 446
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 57
+Hauteur Maximum : 560
+Hauteur Moyenne : 447
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 58
+Hauteur Maximum : 560
+Hauteur Moyenne : 449
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 59
+Hauteur Maximum : 560
+Hauteur Moyenne : 450
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
+Jours : 60
+Hauteur Maximum : 560
+Hauteur Moyenne : 451
+Hauteur Minimum : 47
+En charge : Non
+------------------------------
