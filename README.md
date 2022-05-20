@@ -12,7 +12,7 @@ Plusieurs algorithmes simples peuvent être implémentés: aléatoire, hauteur m
 Pour évaluer les différents algorithmes, plusieurs critères pourront être pris en compte. Des critères sur la **taille** des bambous (la hauteur max des bambous restants, la hauteur min des bambous restants (hors celui coupé :smirk:), la hauteur moyenne des bambous) et des critères sur le **temps** d'exécution des différentes méthodes.
 
 ### Formalisation
-Pour ceux que cela intéresse, une formalisation de ce problème peut être trouvée [ici](https://drops.dagstuhl.de/opus/volltexte/2020/12766/pdf/LIPIcs-FUN-2021-5.pdf)
+
 ![](https://codimd.math.cnrs.fr/uploads/upload_9aa63a8755091a23844a9806845d5690.png)
 
 
@@ -23,13 +23,6 @@ Deux stratégies émergent naturellement : **Reduce-Max()** et **Reduce-Fastest(
 
 
 Un autre aspect critique est le fait que votre robot a des capacités et une mémoire limitée ! Il est alors important de déterminer rapidement le prochain bambou à couper, en un temps au plus linéaire (fonction du nombre de bambous). Ce problème sera abordé plus loin dans la partie avancée concernant les **extensions**. 
-
----
-
-## Démo
-https://www.isnphard.com/g/bamboo-garden-trimming/
-
-![](https://codimd.math.cnrs.fr/uploads/upload_7940c4248aa533db363db19f339eb515.png =400x250)
 
 ---
 
